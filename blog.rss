@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>MCopulos.com Blog</title>
+		<description>Yep</description>
+		<link>http://www.mcopulos.com</link>
+	
+		<item>
+			<title>First Post</title>
+			<description>test test test testicular torsion</description>
+			<pubDate> Sun, 05 Apr 2026 16:00:00 EST</pubDate>
+			<guid>1</guid>
+		</item>
+	</channel>
+</rss>
